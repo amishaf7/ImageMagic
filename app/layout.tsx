@@ -11,7 +11,7 @@ const IBMPlex = IBM_Plex_Sans({ subsets: ["latin"],
  });
 
 export const metadata: Metadata = {
-  title: "Imaginify",
+  title: "ImageMagic",
   description: "AI powered image generator",
 };
 
